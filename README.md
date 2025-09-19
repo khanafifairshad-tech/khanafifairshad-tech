@@ -33,8 +33,6 @@
 <td>✅ Computer Networks</td>
 </tr>
 <tr>
-<td>✅ Operating Systems</td>
-<td>✅ Software Engineering Basics</td>
 </tr>
 </table>
 
